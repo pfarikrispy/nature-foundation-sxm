@@ -12,4 +12,5 @@ If you like, you can (re)use the map data (i.e. coordinates) and add your own id
 Using the KML _offline_ map you can get a list of the GPS coordinates of the dive sites and use them in your own way. If we modify our map in any way, your copy will become outdated.
 Using the KML online map, you get linked version of the Nature Foundation's file and will be up-to-date.
 
-https://naturefoundationsxm.org/dive-sites-st-maarten/st-maarten-marine-park-map/
+web page: https://naturefoundationsxm.org/dive-sites-st-maarten/st-maarten-marine-park-map/
+google map: SXM Dive Sites - https://www.google.com/maps/d/viewer?mid=1zs6wXEAZ74CAYRTjWX93KnHvFtDbyhdJ&usp=sharing
