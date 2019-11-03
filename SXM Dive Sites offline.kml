@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>SXM Dive Sites</name>
+    <Style id="icon-1861-FFD600-nodesc-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1861-FFD600-nodesc-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1861-FFD600-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1861-FFD600-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1861-FFD600-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Molly Beday</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.000667,18.022683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pelican Rock</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.020617,18.018717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Hen & Chicks]]></name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.007917,18.010633,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Cow & Calf]]></name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.012367,18.023333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moonhole</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.005783,18.010483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fish Bowl</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.051217,17.988233,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mike's Maze]]></name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.055917,17.991367,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Proselyte Reef</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.05875,17.989633,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tiegland</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.05905,17.98765,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lucy's Barch]]></name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.0596,17.9898,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carib Cargo</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.070067,17.99365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sailing Vessel</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.056883,17.991283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coralita</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.055833,17.989867,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cable Reef</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.0588,17.987617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Frenchman's Reef]]></name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.09485,18.01775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Bridge</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.112933,18.021333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Isabella Reef</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.11925,18.017083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fuh Sheng</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.14555,18.0395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Gregory</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.1411,18.041817,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>One Step and Beyond</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.001333,17.984167,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Porpoise</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.128217,18.028817,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Long Bay Reef</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.142183,18.042767,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Charlie's Shoal]]></name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.10315,18.017033,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moonscape</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.093767,18.016317,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shark Hotel</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.053283,17.988933,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tug Boat</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.104533,18.036483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort Amsterdam</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.0609,18.014717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cowboy reef</name>
+      <styleUrl>#icon-1861-FFD600-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -63.074483,18.0172,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
