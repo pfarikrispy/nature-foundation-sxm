@@ -1,5 +1,5 @@
-# nature-foundation-sxm
-Nature Foundation St Maarten
+# nature-foundation-sxm #
+# Nature Foundation St Maarten
 
 These files are companion files for the website of the Nature Foundation St Maarten.
 This NGO maintains a marine park reserve near St Maarten in the Caribbean. 
