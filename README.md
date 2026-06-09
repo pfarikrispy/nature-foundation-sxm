@@ -1,10 +1,11 @@
-### nature-foundation-sxm
-# Nature Foundation St Maarten
+# Nature Foundation St Maarten (SXM)
 
 ## Purpose
-These files are companion files for the website of the Nature Foundation St Maarten.
-This NGO maintains a marine park reserve near St Maarten in the Caribbean. 
-They also maintain 30+ dive sites in the area. The park map and list of dive sites used to be publically available only as a printed map or GIF/JPG image, albeit at a high resolution.
+These files were companion files for the website of the Nature Foundation St Maarten.
+
+The NGO maintains a marine park reserve near St Maarten in the Caribbean.
+
+They also maintain 30+ dive sites in the area. The park map and list of dive sites are publically available only as a printed map or GIF/JPG image, albeit at a high resolution.
 
 I've converted the list of GPS coordinates into KML and created a custom map on Google Maps to visually list the sites and park. You can zoom, tilt, rotate and play with the data.
 
