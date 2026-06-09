@@ -10,6 +10,8 @@ They also maintain 30+ dive sites in the area. The park map and list of dive sit
 - I've converted the list of GPS coordinates into KML.
 - Created a custom map on Google Maps to visually list the sites and park. You can zoom, tilt, rotate and play with the data.
 
+![image](sxm-marine-park-dive-sites.png)
+
 ## Goal
 If you like, you can (re)use the map data (i.e. coordinates) and add your own ideas/app.
 
